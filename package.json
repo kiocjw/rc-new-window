@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.10.1",
+    "antd": "^5.1.2",
     "bowser": "^2.11.0",
     "classnames": "2.x",
     "lodash": "^4.17.20"
